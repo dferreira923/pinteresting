@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'devise'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 
 group :development, :test do
